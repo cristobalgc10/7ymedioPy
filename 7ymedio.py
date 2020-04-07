@@ -184,18 +184,3 @@ def pedirCarta(jugador): # 1 - Jugador, 0 - Ordenador
 
 
 menuInicial()
-
-
-
-        
-
-
-
-
-
-
-
-
-
-
-    
